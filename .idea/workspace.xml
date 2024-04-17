@@ -123,7 +123,7 @@
       </method>
     </configuration>
     <configuration name="DiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="discovery" />
+      <module name="discovery-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.defusername.ecommerce.discovery.DiscoveryApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
