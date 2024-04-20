@@ -1,10 +1,10 @@
-package com.defusername.ecommerce.discovery;
+package com.defusername.ecommerce.customer_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DiscoveryApplicationTests {
+class CustomerServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
