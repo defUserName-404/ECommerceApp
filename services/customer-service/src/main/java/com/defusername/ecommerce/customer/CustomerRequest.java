@@ -1,4 +1,4 @@
-package com.defusername.ecommerce.customer_service.customer;
+package com.defusername.ecommerce.customer;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotNull;

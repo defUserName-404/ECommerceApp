@@ -1,4 +1,4 @@
-package com.defusername.ecommerce.customer_service;
+package com.defusername.ecommerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

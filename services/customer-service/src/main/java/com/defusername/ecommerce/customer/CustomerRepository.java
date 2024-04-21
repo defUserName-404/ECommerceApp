@@ -1,4 +1,4 @@
-package com.defusername.ecommerce.customer_service.customer;
+package com.defusername.ecommerce.customer;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;

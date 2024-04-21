@@ -1,6 +1,6 @@
-package com.defusername.ecommerce.customer_service.customer;
+package com.defusername.ecommerce.customer;
 
-import com.defusername.ecommerce.customer_service.exception.CustomerNotFoundException;
+import com.defusername.ecommerce.exception.CustomerNotFoundException;
 import lombok.RequiredArgsConstructor;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.stereotype.Service;

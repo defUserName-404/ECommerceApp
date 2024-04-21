@@ -1,6 +1,6 @@
-package com.defusername.ecommerce.customer_service.handler;
+package com.defusername.ecommerce.handler;
 
-import com.defusername.ecommerce.customer_service.exception.CustomerNotFoundException;
+import com.defusername.ecommerce.exception.CustomerNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.FieldError;
