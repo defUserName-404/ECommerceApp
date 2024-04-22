@@ -1,4 +1,4 @@
-package com.defusername.ecommerce.handler;
+package com.defusername.microcommerce.handler;
 
 import lombok.Builder;
 

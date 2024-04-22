@@ -1,4 +1,4 @@
-package com.defusername.ecommerce.customer;
+package com.defusername.microcommerce.customer;
 
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;

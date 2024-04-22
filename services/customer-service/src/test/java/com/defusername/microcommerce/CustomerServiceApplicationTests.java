@@ -1,10 +1,10 @@
-package com.defusername.ecommerce.config_server;
+package com.defusername.microcommerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConfigServerApplicationTests {
+class CustomerServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

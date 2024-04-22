@@ -1,6 +1,6 @@
-package com.defusername.ecommerce.handler;
+package com.defusername.microcommerce.handler;
 
-import com.defusername.ecommerce.exception.CustomerNotFoundException;
+import com.defusername.microcommerce.exception.CustomerNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.FieldError;

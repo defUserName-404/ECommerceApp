@@ -1,4 +1,4 @@
-package com.defusername.ecommerce.discovery;
+package com.defusername.microcommerce.discovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

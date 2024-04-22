@@ -1,4 +1,4 @@
-package com.defusername.ecommerce.exception;
+package com.defusername.microcommerce.exception;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

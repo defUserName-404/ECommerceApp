@@ -1,4 +1,4 @@
-package com.defusername.ecommerce.customer;
+package com.defusername.microcommerce.customer;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
